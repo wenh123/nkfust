@@ -6,3 +6,5 @@
 ###### nkfust
 
 [高雄第一科大 資管系](http://www.mis.nkfust.edu.tw)
+
+[nkfust](/nkfust.jpg "第一科大")
